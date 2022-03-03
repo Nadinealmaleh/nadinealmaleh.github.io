@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://use.typekit.net/ooo7kaf.css");
+
+/* font */
+
+
+.scroll-text {
+    font-size: 24px;
+}
+
+.employer{
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: red;
+}
+
+.about{
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: red;
+    margin-left: 3%;
+    margin-top: -1%;
+}
+
+h1 {
+    font-family: Quasimoda;
+    font-size: 20px;
+    font-weight:900;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight:800;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+h4 {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 22px;
+    letter-spacing: 1px;
+    line-height: 28px;
+    
+}
+
+
+h5 {
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+
+ul {
+    list-style-type: none;
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 16px;
+  }
+
+  ul li:before {
+    content: '\2014';
+    position: absolute;
+    margin-left: -20px;
+  }
