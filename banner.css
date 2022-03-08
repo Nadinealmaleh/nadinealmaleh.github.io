@@ -3,6 +3,7 @@
 
 .scroll-left {
     height: 50px;	
+    width: max-content;
     overflow: hidden;
     position: relative;
     background:black;

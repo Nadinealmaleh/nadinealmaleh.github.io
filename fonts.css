@@ -4,6 +4,7 @@
 /* font */
 
 
+
 .scroll-text {
     font-size: 24px;
 }
@@ -56,6 +57,7 @@ h4 {
     font-size: 22px;
     letter-spacing: 1px;
     line-height: 28px;
+    margin-bottom: -12px;
     
 }
 
@@ -79,13 +81,8 @@ ul {
     list-style-type: none;
     font-family: Helvetica, sans-serif;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 18px;
     letter-spacing: 1px;
-    line-height: 16px;
+    line-height: 24px;
   }
 
-  ul li:before {
-    content: '\2014';
-    position: absolute;
-    margin-left: -20px;
-  }
